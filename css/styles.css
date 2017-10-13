@@ -1,0 +1,13 @@
+body {
+background-image: url(../css/images/mbuntu-7.jpg);
+}
+.color {
+  background-color: purple;
+}
+.green {
+  background-color: blue;
+}
+.text {
+  text-transform: uppercase;
+  text-emphasis-color: orange;
+}
